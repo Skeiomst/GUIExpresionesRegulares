@@ -1,0 +1,22 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #333;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.input-group-text {
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  cursor: not-allowed;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  border-color: #80bdff;
+}
